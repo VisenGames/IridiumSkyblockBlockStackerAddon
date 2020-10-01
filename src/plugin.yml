@@ -1,0 +1,4 @@
+name: MinepactStacker
+main: games.visen.skyblockblockstacker.Main
+version: 1.0
+description: Minepact block stacker

@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="mainjar" level="project" />
+    <orderEntry type="library" name="IridiumSkyblock-2.4.8" level="project" />
   </component>
 </module>
